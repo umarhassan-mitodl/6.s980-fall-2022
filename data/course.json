@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2022",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "3e0626c3-c6b1-44d2-a8ef-c001e0386f5f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a6d4a341-64aa-49bb-a3b7-fa284d65e775",
+    "website": "6s980-machine-learning-for-inverse-graphics"
+  },
+  "course_title": "Machine Learning for Inverse Graphics",
+  "hide_download": true,
+  "course_description": "This course covers fundamental and advanced techniques in this field at the intersection of computer vision, computer graphics, and geometric deep learning. It will lay the foundations of how cameras see the world, how we can represent 3D scenes for artificial intelligence, how we can learn to reconstruct these representations from only a single image, how we can guarantee certain kinds of generalizations, and how we can train these models in a self-supervised way.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.S980",
+  "course_image_thumbnail": {
+    "content": "b6625d94-f460-4b8d-997f-646d5060617c",
+    "website": "6s980-machine-learning-for-inverse-graphics"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Lecture Videos",
+    "Programming Assignments"
+  ],
+  "site_uid": "22d14517-f710-4599-9bc8-461bf36f6259",
+  "site_short_id": "6.s980-fall-2022",
+  "site_url_path": "courses/6-s980-machine-learning-for-inverse-graphics-fall-2022"
+}
